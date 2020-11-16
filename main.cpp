@@ -59,7 +59,7 @@ int main(int argc, char **argv) {
                 break;
             }
             default: {
-                printf("Argument not fiend, try -h to find some help\n");
+                printf("Argument not found, try -h to find some help\n");
                 return 0;
             }
         }
