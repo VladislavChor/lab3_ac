@@ -7,4 +7,4 @@ Program option:
 * -l or --list - list of arguments
 * -n or --name - file name
 
-If argument that  doesn't exist: Argument not found, try -h to find some help
+If argument doesn't exist: Argument not found, try -h to find some help
